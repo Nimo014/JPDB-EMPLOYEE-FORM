@@ -21,9 +21,9 @@
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ### Screenshots:
-![Index Page1](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
+![Index Page1](https://github.com/Nimo014/JPDB-EMPLOYEE-FORM/blob/main/assest/index1.png)
 
-![Index Page2](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+![Index Page2](https://github.com/Nimo014/JPDB-EMPLOYEE-FORM/blob/main/assest/index2.png)
 
 ## Release History
 
