@@ -23,10 +23,10 @@
 ### Screenshots:
 
 - Index Page 1
-![Index Page1](https://github.com/Nimo014/JPDB-EMPLOYEE-FORM/blob/main/assest/index1.png)
+![Index Page1](https://github.com/Nimo014/JPDB-EMPLOYEE-FORM/blob/main/assets/index1.png)
 
 - Index Page 2
-![Index Page2](https://github.com/Nimo014/JPDB-EMPLOYEE-FORM/blob/main/assest/index2.png)
+![Index Page2](https://github.com/Nimo014/JPDB-EMPLOYEE-FORM/blob/main/assets/index2.png)
 
 ## Release History
 
